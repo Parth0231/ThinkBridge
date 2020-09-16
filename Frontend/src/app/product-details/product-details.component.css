@@ -1,0 +1,17 @@
+.formcontent{
+    margin: auto;
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+input{
+    text-align: center;
+    border: 2px solid black;
+}
+textarea{
+    text-align: center;
+    border: 2px solid black;
+}
+label{
+    text-align: center;
+    font-weight: bold;
+}

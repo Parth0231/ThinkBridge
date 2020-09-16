@@ -1,0 +1,19 @@
+.inventlst{
+    margin: auto;
+    max-width: 60%;
+    border: 2px solid black;
+}
+.formcontent{
+    margin: auto;
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+.btn-submit{
+    margin-bottom: 10px;
+    
+}
+
+tr{
+    cursor: pointer;
+}
+
